@@ -36,7 +36,9 @@ Speaker notes go here.
 
 ## Architecture
 
-<img src="images/architecture-overview.png" alt="DDEV architecture" height="400px" />
+<div class="img-scroll">
+    <img src="images/architecture-overview.png" alt="DDEV architecture"/>
+</div>
 
 <a href="https://ddev.com/blog/ddev-docker-architecture/" target="_blank">https://ddev.com/blog/ddev-docker-architecture/</a>
 

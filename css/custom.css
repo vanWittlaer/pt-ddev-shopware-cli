@@ -19,6 +19,19 @@
     --font-mono: "Monaco", "Menlo", "Ubuntu Mono", "Consolas", monospace;
 }
 
+/* Image scroll */
+.img-scroll {
+    width: 1000px;          /* visible window */
+    height: 400px;
+    overflow: auto;        /* scrollbars when content is larger */
+    border: 1px solid #ccc;
+}
+.img-scroll img {
+    display: block;        /* removes the inline gap below the image */
+    max-height: none;
+    max-width: none;       /* important: overrides max-width:100% from Bootstrap/Tailwind/theme CSS */
+}
+
 /* Override default theme colors */
 .reveal {
     color: var(--ddev-black);
