@@ -1,0 +1,24 @@
+{
+  "name": "ddev-shopware-cli-presentation",
+  "version": "1.0.0",
+  "description": "reveal.js presentation: DDEV with shopware-cli for Shopware 6 client project development",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8000 --open=/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ddev",
+    "shopware",
+    "shopware-cli",
+    "revealjs",
+    "presentation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
