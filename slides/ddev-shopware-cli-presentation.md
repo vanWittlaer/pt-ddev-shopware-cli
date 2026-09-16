@@ -5,6 +5,10 @@
 
 ## Why not get most out of both?
 
+<br>
+ 
+Benny Poensgen (@vanWittlaer)
+
 Note:
 Speaker notes go here.
 
@@ -111,6 +115,8 @@ Use the `shopware-6` project type to tell DDEV to set up a Shopware 6 project en
 --
 
 ## .env.local
+
+This is created or amended by DDEV:
 
 ```yaml
 DATABASE_URL="mysql://db:db@db:3306/db"
@@ -224,21 +230,32 @@ Any script running inside the DDEV web container can use the IS_DDEV_PROJECT env
 ---
 
 ## A minimalistic Shopware setup
-
+<br>
+<center>
 <a href="https://github.com/vanWittlaer/sissy-demo" target="_blank">https://github.com/vanWittlaer/sissy-demo</a>
-
-* Just the Shopware production template, nginx, PHP 8.4, MariaDB 11.8
+<br><br>
+Just the Shopware production template with nginx, PHP 8.4 and MariaDB 11.8
+</center>
 
 ---
 
 ## A 'full-blown' Shopware setup
-
+<br>
+<center>
 <a href="https://github.com/vanWittlaer/swoofy" target="_blank">https://github.com/vanWittlaer/swoofy</a>
-
-* ... plus: Redis, Elasticsearch and RabbitMQ
+<br><br>
+... plus: Redis, Elasticsearch and RabbitMQ
+</center>
 
 ---
 
-# Thank You
-
+# Thank You!
+<center>
 Questions?
+<br><br>
+Benny Poensgen (@vanWittlaer)<br>
+<a href="https://www.poensgen.de" target="_blank">https://www.poensgen.de</a><br>
+Phone +49 1511 9511421<br>
+Email: benjamin@poensgen.de
+</center>
+
